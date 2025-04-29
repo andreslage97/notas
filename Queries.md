@@ -17,6 +17,7 @@
 }
 ```
 ## 2. `Query Builder`
+https://www.doctrine-project.org/projects/doctrine-orm/en/current/reference/query-builder.html
 ``` php
  public function findAllGreaterThanPrice(int $price, bool $includeUnavailableProducts = false): array
     {
@@ -39,3 +40,4 @@
         // $product = $query->setMaxResults(1)->getOneOrNullResult();
     }
 ```
+
