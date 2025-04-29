@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Queries.md",
+                "file": "Fetching objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Queries"
+              "title": "Fetching objects"
             }
           },
           {
@@ -213,12 +213,12 @@
   },
   "active": "3104d6089b7aa293",
   "lastOpenFiles": [
-    "Symfony.md",
-    "Queries.md",
-    "Collections.md",
-    "Fetching objects.md",
     "Forms.md",
     "MapEntity Options.md",
+    "Queries.md",
+    "Symfony.md",
+    "Collections.md",
+    "Fetching objects.md",
     "Symfony 1c8be4d35e8a80299b0dcd4a26f2d336.md",
     "asdf.md",
     "img/Captura de pantalla 2025-04-25 093550.png",
