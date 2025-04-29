@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collections.md",
+                "file": "Symfony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collections"
+              "title": "Symfony"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "bbde436186333f98",
   "lastOpenFiles": [
+    "Collections.md",
     "Symfony.md",
     "Forms.md",
-    "Collections.md",
     "Symfony 1c8be4d35e8a80299b0dcd4a26f2d336.md",
     "asdf.md",
     "img/Captura de pantalla 2025-04-25 093550.png",
