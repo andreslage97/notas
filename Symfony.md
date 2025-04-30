@@ -197,13 +197,13 @@ private array $products;
 
 ### Crear entidad
 
-```bash
+```shell
 php bin/console make:entity Usuario
 ```
 
 ### Generar tabla según entidad
 
-```bash
+```shell
 php bin/console doctrine:migrations:diff
 ```
 
