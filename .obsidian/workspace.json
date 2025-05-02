@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CREAR PANTALLA GRUD.md",
+                "file": "Symfony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CREAR PANTALLA GRUD"
+              "title": "Symfony"
             }
           }
         ]
@@ -170,13 +170,13 @@
   },
   "active": "ed5047566982de82",
   "lastOpenFiles": [
-    "Forms.md",
-    "MapEntity Options.md",
     "Queries.md",
-    "Symfony.md",
+    "MapEntity Options.md",
     "Fetching objects.md",
-    "CREAR PANTALLA GRUD.md",
     "Collections.md",
+    "CREAR PANTALLA GRUD.md",
+    "Forms.md",
+    "Symfony.md",
     "Symfony 1c8be4d35e8a80299b0dcd4a26f2d336.md",
     "asdf.md",
     "img/Captura de pantalla 2025-04-25 093550.png",
