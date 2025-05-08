@@ -382,3 +382,9 @@ echo "correcto";
 # Control de acceso
 
 access_control en security
+
+# Authorization check
+AuthorizationCheckerInterface para autorización de roles
+# get User
+TokenStorageInterface para obtener el usuario o datos
+
