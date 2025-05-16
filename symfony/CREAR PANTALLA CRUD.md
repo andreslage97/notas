@@ -10,7 +10,7 @@
 - [ ] Create javascript
 - [ ] Create twig template
 - [ ] Create FilterType
-- [ ] Create FilterTrait ??
+- [ ] Create FilterTrait
 
 
 ## Checks

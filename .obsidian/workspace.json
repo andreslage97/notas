@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "TODO"
             }
           }
         ],
@@ -199,15 +199,16 @@
   },
   "active": "92ab0079dbcf7c5c",
   "lastOpenFiles": [
-    "Forms.md",
-    "Fetching objects.md",
+    "symfony/CREAR PANTALLA CRUD.md",
+    "TODO.md",
     "GIT.md",
-    "Queries.md",
-    "CREAR PANTALLA CRUD.md",
-    "Collections.md",
-    "Symfony.md",
-    "Untitled.md",
-    "MapEntity Options.md",
+    "symfony/Symfony.md",
+    "symfony/Queries.md",
+    "symfony/Forms.md",
+    "symfony/Fetching objects.md",
+    "symfony/MapEntity Options.md",
+    "symfony",
+    "symfony/Collections.md",
     "Symfony 1c8be4d35e8a80299b0dcd4a26f2d336.md",
     "asdf.md",
     "img/Captura de pantalla 2025-04-25 093550.png",
