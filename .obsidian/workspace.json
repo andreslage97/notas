@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "symfony/CREAR PANTALLA CRUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "CREAR PANTALLA CRUD"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "92ab0079dbcf7c5c",
   "lastOpenFiles": [
-    "symfony/CREAR PANTALLA CRUD.md",
     "TODO.md",
+    "symfony/CREAR PANTALLA CRUD.md",
     "GIT.md",
     "symfony/Symfony.md",
     "symfony/Queries.md",
