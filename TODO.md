@@ -6,7 +6,7 @@ Luego en apply filters se añade la función. if get['userId] y aplicamos el fil
 dashboard
  - [ ] probar a enviar los filtros por parámetro y obtenerlos en el controlador.
 
-cvs
+### cvs
  - [x] arreglar que manda filtros de checkbox automáticamente
  - [x] arreglar arrays en filtro, no filtra bien
  - [x] no introducir fichero al editar
@@ -15,6 +15,7 @@ cvs
  - [x] aplicar filtros a la búsqueda del panel
  - [x] total no se rellena
  - [x] revisar pull request de github
+ - [ ] Mostrar fecha y hora de inserción en el listado.
  ### Ofertas de trabajo
  - [ ] Revisar plantillas y cambiar en el resto.
  - [ ] 
