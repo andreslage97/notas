@@ -18,10 +18,10 @@ dashboard
  - [x] Mostrar fecha y hora de inserción en el listado.
  - [x] Intereses está funcionando raro
  ### Ofertas de trabajo
- - [ ] Revisar plantillas y cambiar en el resto.
+ - [x] Revisar plantillas y cambiar en el resto.
  - [x] filtros y varios
  - [ ] Chequear si necesitan lifecyclecallbacks
- - [ ] 
+ - [ ] revisar datetimes para cambiar por datetimeinmutable
  - [ ] 
  - [ ] 
 

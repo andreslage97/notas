@@ -15,3 +15,4 @@
 
 ## Checks
 - [ ] Si creamos algo en el repositorio, el data tiene que volver en array asociativo llamado data.
+- [ ] revisar datetimes para cambiar por datetimeinmutable
