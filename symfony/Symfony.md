@@ -388,3 +388,33 @@ AuthorizationCheckerInterface para autorización de roles
 # get User
 TokenStorageInterface para obtener el usuario o datos
 
+```php
+ private AuthorizationCheckerInterface $authorizationCheckerInterface;
+
+    private TokenStorageInterface $tokenStorageInterface;
+
+  
+
+    public function __construct(
+
+        AuthorizationCheckerInterface $authorizationCheckerInterface,
+
+        TokenStorageInterface $tokenStorageInterface
+
+    ) {
+
+        $this->authorizationCheckerInterface = $authorizationCheckerInterface;
+
+        $this->tokenStorageInterface = $tokenStorageInterface;
+
+    }
+     $isAdmin = $this->authorizationCheckerInterface->isGranted('ROLE_ADMIN') ||
+
+            $this->authorizationCheckerInterface->isGranted('ROLE_SUPER_ADMIN');;
+
+        $user = $this->tokenStorageInterface->getToken()->getUser();
+
+        /** @var \App\Entity\User $user */
+
+        $employee = $user->getEmployee();
+```
