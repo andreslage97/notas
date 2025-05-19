@@ -23,7 +23,6 @@ dashboard
  - [ ] Chequear si necesitan lifecyclecallbacks
  - [ ] revisar datetimes para cambiar por datetimeinmutable
  - [ ] 
- - [ ] 
 
 
 
