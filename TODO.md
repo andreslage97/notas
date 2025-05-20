@@ -21,5 +21,6 @@ dashboard
  - [x] Revisar plantillas y cambiar en el resto.
  - [x] filtros y varios
  - [x] Chequear si necesitan lifecyclecallbacks
- - [ ] revisar datetimes para cambiar por datetimeinmutable
- - [ ] 
+ - [x] revisar datetimes para cambiar por datetimeinmutable
+### Cv 
+ - [ ] No funciona array de varios valores de enum
