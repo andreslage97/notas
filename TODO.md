@@ -64,3 +64,4 @@ check
 
 {% endblock %}
 ```
+Las tablas se hacen con el objeto.

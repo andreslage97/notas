@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "TODO"
             }
           }
         ],
@@ -199,13 +199,13 @@
   },
   "active": "92ab0079dbcf7c5c",
   "lastOpenFiles": [
+    "GIT.md",
     "TODO.md",
     "symfony/Symfony.md",
     "symfony/Queries.md",
     "symfony/MapEntity Options.md",
     "symfony/Forms.md",
     "symfony/Fetching objects.md",
-    "GIT.md",
     "symfony/CREAR PANTALLA CRUD.md",
     "symfony/Collections.md",
     "symfony",
