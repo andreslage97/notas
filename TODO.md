@@ -23,4 +23,8 @@ dashboard
  - [x] Chequear si necesitan lifecyclecallbacks
  - [x] revisar datetimes para cambiar por datetimeinmutable
 ### Cv 
- - [ ] No funciona array de varios valores de enum
+ - [x] No funciona array de varios valores de enum
+ - [ ] revisar filtros
+ - [ ] hacer pull request
+
+ - [ ] Revisar Absence por AbsenceType
