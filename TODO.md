@@ -24,7 +24,13 @@ dashboard
  - [x] revisar datetimes para cambiar por datetimeinmutable
 ### Cv 
  - [x] No funciona array de varios valores de enum
- - [ ] revisar filtros
- - [ ] hacer pull request
+ - [x] revisar filtros
+ - [x] hacer pull request
 
  - [ ] Revisar Absence por AbsenceType
+ - [ ] revisar validatorOf en user
+
+#### notas
+podemos enviar variables desde el controlador.
+Luego en los scripts de twig asignamos la variable a una constante.
+Luego la tenemos disponible en la datatable.
