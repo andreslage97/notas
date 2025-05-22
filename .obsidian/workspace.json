@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enums.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enums"
+              "title": "TODO"
             }
           }
         ],
@@ -185,10 +185,10 @@
   },
   "active": "21c7b92d51624b63",
   "lastOpenFiles": [
+    "Enums.md",
     "TODO.md",
     "GIT.md",
     "symfony/Symfony.md",
-    "Enums.md",
     "symfony/Collections.md",
     "symfony/Forms.md",
     "symfony/Queries.md",

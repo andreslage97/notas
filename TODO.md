@@ -35,3 +35,8 @@ dashboard
 podemos enviar variables desde el controlador.
 Luego en los scripts de twig asignamos la variable a una constante.
 Luego la tenemos disponible en la datatable.
+
+Checks
+- [ ] boton borrar permiso
+- [ ] rutas con guion medio
+- [ ] tipo de dato a las constantes
