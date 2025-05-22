@@ -27,8 +27,9 @@ dashboard
  - [x] revisar filtros
  - [x] hacer pull request
 
- - [ ] Revisar Absence por AbsenceType
- - [ ] revisar validatorOf en user
+ - [x] Revisar Absence por AbsenceType
+ - [x] revisar validatorOf en user
+ - [x] revisar filtros
 
 #### notas
 podemos enviar variables desde el controlador.
