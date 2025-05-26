@@ -4,7 +4,7 @@ Luego en apply filters se añade la función. if get['userId] y aplicamos el fil
 
 
 dashboard
- - [ ] probar a enviar los filtros por parámetro y obtenerlos en el controlador.
+ - [x] probar a enviar los filtros por parámetro y obtenerlos en el controlador.
 
 ### cvs
  - [x] arreglar que manda filtros de checkbox automáticamente

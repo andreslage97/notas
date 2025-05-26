@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enums.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enums"
+              "title": "TODO"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,13 +170,13 @@
   },
   "active": "21c7b92d51624b63",
   "lastOpenFiles": [
+    "GIT.md",
+    "TODO.md",
+    "symfony/Enums.md",
+    "symfony/Filters.md",
     "symfony/Symfony.md",
-    "Filters.md",
     "symfony/CREAR PANTALLA CRUD.md",
     "symfony/Collections.md",
-    "TODO.md",
-    "Enums.md",
-    "GIT.md",
     "symfony/Forms.md",
     "symfony/Queries.md",
     "symfony/MapEntity Options.md",
