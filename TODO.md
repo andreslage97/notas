@@ -31,6 +31,7 @@ dashboard
  - [x] revisar validatorOf en user
  - [x] revisar filtros
 
+- [ ] REtocar 26+27
 #### notas
 podemos enviar variables desde el controlador.
 Luego en los scripts de twig asignamos la variable a una constante.
