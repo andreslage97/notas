@@ -8,3 +8,21 @@
         }
     }
 ```
+### Assert
+```php
+#[Assert\Callback(callback: 'callback')]|
+|public function validateDates(ExecutionContextInterface $context): void|
+|{|
+
+|if ($this->startDate && $this->endDate && $this->endDate < $this->startDate) {|
+
+|$context->buildViolation('The end date can´t be earlier than the start date.')|
+
+|->atPath('endDate')|
+
+|->addViolation();|
+
+|}|
+
+}
+```
