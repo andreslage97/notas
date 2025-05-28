@@ -3,6 +3,11 @@ puedes modificar el request apara añadir información creando una nueva y hacie
 Luego en apply filters se añade la función. if get['userId] y aplicamos el filtro correspondiente
 
 
+#### 28/05
+- [ ] Crear reserva al clickar
+
+
+
 dashboard
  - [x] probar a enviar los filtros por parámetro y obtenerlos en el controlador.
 
@@ -26,12 +31,10 @@ dashboard
  - [x] No funciona array de varios valores de enum
  - [x] revisar filtros
  - [x] hacer pull request
-
  - [x] Revisar Absence por AbsenceType
  - [x] revisar validatorOf en user
  - [x] revisar filtros
-
-- [ ] REtocar 26+27
+- [x] REtocar 26+27
 #### notas
 podemos enviar variables desde el controlador.
 Luego en los scripts de twig asignamos la variable a una constante.
