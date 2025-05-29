@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "symfony/Symfony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Symfony"
             }
           }
         ],
@@ -185,12 +185,12 @@
   },
   "active": "fc0a50fd1bdaab07",
   "lastOpenFiles": [
+    "TODO.md",
     "symfony/Symfony.md",
     "symfony/Collections.md",
     "symfony/CREAR PANTALLA CRUD.md",
     "symfony/Enums.md",
     "symfony/Fetching objects.md",
-    "TODO.md",
     "GIT.md",
     "Eventos.md",
     "symfony/Filters.md",
