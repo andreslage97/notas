@@ -4,11 +4,14 @@ Luego en apply filters se añade la función. if get['userId] y aplicamos el fil
 
 
 #### 28/05
-- [ ] Crear reserva al clickar
+- [x] Crear reserva al clickar
 - [ ] Solo ver reservas aceptadas.
 - [ ] arreglar click en el menu
-- [ ] 
-
+- [ ] deja clickar en los reservados
+- [ ] mirar si 'created' se puede dejar asignado por defecto
+- [ ] crear reservas
+	- [ ] No puede haber una aceptada para ese puesto en el rango de fechas
+	- [ ] 
 
 
 dashboard
