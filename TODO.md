@@ -11,7 +11,7 @@ Luego en apply filters se añade la función. if get['userId] y aplicamos el fil
 - [x] mirar si 'created' se puede dejar asignado por defecto
 - [x] crear reservas
 	- [x] No puede haber una aceptada para ese puesto en el rango de fechas
-	- [ ] 
+- [ ] filtros empleado no van en reservations
 
 
 dashboard
