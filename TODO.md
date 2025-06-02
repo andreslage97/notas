@@ -13,10 +13,11 @@ Luego en apply filters se añade la función. if get['userId] y aplicamos el fil
 	- [x] No puede haber una aceptada para ese puesto en el rango de fechas
 - [x] filtros empleado no van en reservations
 - [x] revisar filtros
-- [ ] si está reservada, no aplicar conflicto o removerlo
+- [x] si está reservada, no aplicar conflicto o removerlo
 - [x] clicks ya no van en empleado. ver como arreglarlo
 
-
+#### 02/06
+- [ ] Hacer un type específico para employees, ya que no pueden modifcar las consultas ya aceptadas o canceladas.
 dashboard
  - [x] probar a enviar los filtros por parámetro y obtenerlos en el controlador.
 
