@@ -1,3 +1,4 @@
+### Hace que tu rama salga del commit dicho
 ```bash
 git rebase -i 1234
 ```
@@ -14,3 +15,4 @@ git fetch origin nombre-de-la-rama
 git merge --no-ff origin/nombre-de-la-rama
 
 ```
+	
