@@ -15,12 +15,9 @@ Luego en apply filters se añade la función. if get['userId] y aplicamos el fil
 - [x] revisar filtros
 - [x] si está reservada, no aplicar conflicto o removerlo
 - [x] clicks ya no van en empleado. ver como arreglarlo
-
 #### 02/06
-- [ ] Hacer un type específico para employees, ya que no pueden modifcar las consultas ya aceptadas o canceladas.
-dashboard
- - [x] probar a enviar los filtros por parámetro y obtenerlos en el controlador.
-
+- [x] Hacer un type específico para employees, ya que no pueden modifcar las consultas ya aceptadas o canceladas.
+- [ ] Los botones de editar no le salen al administrador, pero me parece funcional de esta manera.
 ### cvs
  - [x] arreglar que manda filtros de checkbox automáticamente
  - [x] arreglar arrays en filtro, no filtra bien
