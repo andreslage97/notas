@@ -18,6 +18,9 @@ Luego en apply filters se añade la función. if get['userId] y aplicamos el fil
 #### 02/06
 - [x] Hacer un type específico para employees, ya que no pueden modifcar las consultas ya aceptadas o canceladas.
 - [x] Los botones de editar no le salen al administrador, pero me parece funcional de esta manera.
+#### 06/06
+- [ ] document-definition
+- [ ] estado de la definicion en el documento
 ### cvs
  - [x] arreglar que manda filtros de checkbox automáticamente
  - [x] arreglar arrays en filtro, no filtra bien
