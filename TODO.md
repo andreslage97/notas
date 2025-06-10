@@ -56,7 +56,7 @@ Luego la tenemos disponible en la datatable.
 - [ ] tipo de dato a las constantes
 - [ ] cambiar por indentifier en controller, y quitar grupo del uuid
 #### 10/06
-- [ ] ya se mueven verdad?
-- [ ] borrar los zips después de guardar los pdf
-- [ ] agregar id a los pdf
+- [x] ya se mueven verdad?
+- [x] borrar los zips después de guardar los pdf
+- [x] agregar id a los pdf
 - [ ] añadir nombre del filename del item con el nombre del nuevo pdf movido.
